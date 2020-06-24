@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#C20E4D</color>
+    <color name="background">#53A7EC</color>
+    <color name="login">#95A6A4EC</color>
+    <color name="black">#2C2E2E</color>
+    <color name="pinkish">#F75F93</color>
+    <color name="colorPrimary">#D877C8</color>
+
+
+
+</resources>
